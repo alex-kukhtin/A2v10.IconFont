@@ -1,0 +1,25 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg xmlns="http://www.w3.org/2000/svg">
+<metadata>icon font for a2v10</metadata>
+<defs>
+  <font id="A2v10" horiz-adv-x="1024">
+    <font-face font-family="A2v10"
+      units-per-em="1024" ascent="960"
+      descent="64" />
+    <missing-glyph horiz-adv-x="0" />
+    <glyph glyph-name="plus"
+      unicode="&#xE970;"
+      horiz-adv-x="1024" d="M448 896H576V512H960V384H576V0H448V384H64V512H448V896z" />
+    <glyph glyph-name="star"
+      unicode="&#xE9B6;"
+      horiz-adv-x="1024" d="M1026.29 570.5419999999999H625.805L511.811 960L395.65 570.5419999999999L0.839 570.768L319.154 326.8830000000001L190.827 -64L511.811 179.062L829.607 -64.45L697.8019999999999 326.054L1026.29 570.5419999999999z" />
+    <glyph glyph-name="star-outline"
+      unicode="&#xE9B7;"
+      horiz-adv-x="1024" d="M1026.29 570.5419999999999L697.802 326.054L829.607 -64.45L511.811 179.0619999999999L190.827 -64L319.154 326.8830000000001L0.839 570.768L395.65 570.5419999999999L511.811 960L625.805 570.5419999999999H1026.29zM912 533.87H599.566L510.634 838L420.011 533.87L112 534.047L360.333 343.596L260.219 38.3530000000001L510.6339999999999 228.1610000000001L758.561 38L655.734 342.948L912 533.87z" />
+    <glyph glyph-name="dot"
+      unicode="&#xEA49;"
+      horiz-adv-x="1024" d="M0 448A512 512 0 0 1 1024 448A512 512 0 0 1 0 448" />
+  </font>
+</defs>
+</svg>
