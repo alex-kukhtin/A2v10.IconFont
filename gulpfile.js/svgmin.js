@@ -5,11 +5,11 @@ const gulp = require('gulp');
 const svgmin = require('gulp-svgmin');
 
 const opts = {
-    plugins: [{removeDoctype: true }, 
-    { removeComments: true }, 
-    { cleanupNumericValues: {floatPrecision: 0 }
-    },
-    { removeAttrs: {attrs:'xmlns|fill.*|stroke.*|baseProfile|width|height|fill-rule|version|enable-background'} }
+    plugins: [
+        { removeDoctype: true }, 
+        { removeComments: true }, 
+        { cleanupNumericValues: {floatPrecision: 0 } },
+        { removeAttrs: {attrs:'xmlns|fill.*|stroke.*|baseProfile|width|height|fill-rule|version|enable-background'} }
     ]};
 
 gulp.task('svgmin', ['clear'], function() {
