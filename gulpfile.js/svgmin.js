@@ -12,10 +12,10 @@ const opts = {
     { removeAttrs: {attrs:'xmlns|fill.*|stroke.*|baseProfile|width|height|fill-rule|version|enable-background'} }
     ]};
 
-gulp.task('svgmin', function() {
+gulp.task('svgmin', ['clear'], function() {
     return gulp.src(['source/*.svg'])
         .pipe(foreach((stream, file) => {
-            console.log(file.path);
+            //console.log(file.path);
             return stream
                 .pipe(svgmin(opts));
         }))

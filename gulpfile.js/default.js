@@ -1,3 +1,3 @@
 const gulp = require('gulp');
 
-gulp.task('default', ["svgmin", "iconfont"]);
+gulp.task('default', ["clear", "svgmin", "iconfont"]);
