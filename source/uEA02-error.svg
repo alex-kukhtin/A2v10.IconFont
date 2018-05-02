@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.1"
+   width="1024"
+   height="1024"
+   viewBox="0 0 1024.00 1024.00"
+   enable-background="new 0 0 1024.00 1024.00"
+   xml:space="preserve"
+   id="svg4562"><metadata
+   id="metadata4568"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+   id="defs4566"><linearGradient
+     osb:paint="solid"
+     id="linearGradient5239"><stop
+       id="stop5237"
+       offset="0"
+       style="stop-color:#41e7d0;stop-opacity:1;" /></linearGradient></defs>
+	
+	
+<path
+   id="path5294"
+   d="M 512 0 A 512 512 0 0 0 0 512 A 512 512 0 0 0 512 1024 A 512 512 0 0 0 1024 512 A 512 512 0 0 0 512 0 z M 587.55273 137.48242 L 587.55273 678.0918 L 436.44727 680.86133 L 436.44727 140.25195 L 587.55273 137.48242 z M 587.55273 751.39453 L 587.55273 883.74805 L 436.44727 886.51758 L 436.44727 754.16406 L 587.55273 751.39453 z "
+   style="fill:#f40000;fill-opacity:1;stroke:none;stroke-width:1.16943526;stroke-opacity:1" /><g
+   id="flowRoot5297"
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+   transform="matrix(27.532545,-0.50457917,0,-26.063271,-10255.161,10676.972)"
+   aria-label="i" /></svg>
