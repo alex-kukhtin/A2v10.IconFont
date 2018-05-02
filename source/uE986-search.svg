@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.1"
+   width="1024"
+   height="1024"
+   viewBox="0 0 1024.00 1024.00"
+   enable-background="new 0 0 1024.00 1024.00"
+   xml:space="preserve"
+   id="svg4562"><metadata
+   id="metadata4568"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+   id="defs4566"><linearGradient
+     osb:paint="solid"
+     id="linearGradient5239"><stop
+       id="stop5237"
+       offset="0"
+       style="stop-color:#41e7d0;stop-opacity:1;" /></linearGradient></defs>
+	
+	
+<path
+   style="fill:#0000bb;fill-opacity:1;stroke:none;stroke-width:1.36070108"
+   d="m 624.4219,-1.1191406 a 400,400 0 0 1 400,400.0000006 400,400 0 0 1 -400,400 400,400 0 0 1 -259.22852,-95.9668 L 47.425802,1020.6816 2.1699219,975.42578 319.71096,657.88477 a 400,400 0 0 1 -95.28906,-259.00391 400,400 0 0 1 400,-400.0000006 z m 2.16992,62.1894526 a 336,336 0 0 0 -336,335.999998 336,336 0 0 0 336,336 336,336 0 0 0 336,-336 336,336 0 0 0 -336,-335.999998 z"
+   id="path5144" /></svg>

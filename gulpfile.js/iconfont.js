@@ -15,7 +15,7 @@ function getGlyph(g) {
     return g.unicode[0].charCodeAt(0).toString(16).toLowerCase();
 }
 
-gulp.task('iconfont', ['svgmin'], () => { 
+gulp.task('iconfont', ['svgmin'], () => {
     return gulp.src(['dest/*.svg'])
     .pipe(iconfont(options))
     .on('glyphs', (glyphs) => {
