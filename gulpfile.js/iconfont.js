@@ -8,6 +8,7 @@ const options = {
     fontName: 'A2v10',
     metadata: 'icon font for a2v10',
     prependUnicode: true,
+    round: 1000,
     formats: ['ttf', 'eot', 'woff', 'svg', 'woff2']
 };
 

@@ -3,9 +3,13 @@ html {
 	font-size: 14px;
 	-ms-text-size-adjust: 100%;
 	-webkit-text-size-adjust: 100%;
-	color: #222;
+	color: #000;
 	box-sizing: border-box;
 	padding: 0;
+}
+
+body {
+	padding:20px;	
 }
 
 .content {
