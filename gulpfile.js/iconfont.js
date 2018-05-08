@@ -4,7 +4,7 @@ const iconfont = require('gulp-iconfont');
 const options = {
     normalize:true,
     fontHeight:1024,
-    descent: 64,
+    descent: 128,
     fontName: 'A2v10',
     metadata: 'icon font for a2v10',
     prependUnicode: true,
