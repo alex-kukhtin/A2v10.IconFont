@@ -14,7 +14,7 @@
    height="1024"
    width="1024"
    version="1.1"
-   sodipodi:docname="uE998-user.svg"
+   sodipodi:docname="uE997-tag.svg"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"><sodipodi:namedview
    pagecolor="#ffffff"
    bordercolor="#666666"
@@ -28,23 +28,28 @@
    inkscape:window-height="1017"
    id="namedview5099"
    showgrid="false"
-   inkscape:zoom="0.5"
-   inkscape:cx="644.41343"
-   inkscape:cy="551.80948"
+   inkscape:zoom="0.70710678"
+   inkscape:cx="452.79244"
+   inkscape:cy="666.00302"
    inkscape:window-x="-8"
    inkscape:window-y="-8"
    inkscape:window-maximized="1"
-   inkscape:current-layer="svg4562" /><metadata
+   inkscape:current-layer="svg4562"
+   inkscape:measure-start="560.029,1026.72"
+   inkscape:measure-end="1016.11,570.635" /><metadata
    id="metadata4568"><rdf:RDF><cc:Work
        rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
          rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
    id="defs4566" />
 	
 	
-<g
-   id="g5743" /><g
-   transform="translate(0,-662.47461)"
-   id="g5743-3" /><path
-   style="fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-width:1.84618402;stroke-opacity:1"
-   d="M 512 0.92382812 A 323.0769 323.0769 0 0 0 188.92383 324 A 323.0769 323.0769 0 0 0 363.03125 610.53711 A 481.07364 434.16808 0 0 0 30.925781 1023.0742 L 94.806641 1023.0742 A 417.20163 371.85627 0 0 1 512 651.34375 A 417.20163 371.85627 0 0 1 929.19531 1023.0742 L 993.07422 1023.0742 A 481.07364 434.16808 0 0 0 660.42969 610.64648 A 323.0769 323.0769 0 0 0 835.07617 324 A 323.0769 323.0769 0 0 0 512 0.92382812 z M 510.94727 64.740234 A 259.25925 259.25925 0 0 1 770.20703 324 A 259.25925 259.25925 0 0 1 510.94727 583.25977 A 259.25925 259.25925 0 0 1 251.6875 324 A 259.25925 259.25925 0 0 1 510.94727 64.740234 z "
-   id="path1382" /></svg>
+<path
+   style="fill:#ff00ff;fill-opacity:1;stroke:#000000;stroke-width:1.17184246;stroke-opacity:1"
+   d="M 621.64258,43.704824 46.507818,618.84154 407.7168,980.05248 976.90626,410.86303 h -0.51172 V 43.704824 Z"
+   id="rect7737"
+   inkscape:connector-curvature="0" /><circle
+   style="fill:#ffff00;fill-opacity:1;stroke:#000000;stroke-opacity:1"
+   id="path7766"
+   cx="771.45349"
+   cy="252.42519"
+   r="72" /></svg>
