@@ -2,3 +2,4 @@ node_modules
 **/thumbs.db
 dest
 package-lock.json
+.vs/*
