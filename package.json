@@ -8,12 +8,13 @@
         "url": ""
     },
     "dependencies": {
-        "del": "^3.0.0",
+        "debug": "^3.1.0",
+        "del": "3.0.0",
         "gulp": "^3.9.1",
-        "gulp-concat": "^2.6.1",
-        "gulp-foreach": "^0.1.0",
+        "gulp-concat": "2.6.1",
+        "gulp-foreach": "0.1.0",
         "gulp-iconfont": "^9.1.0",
-        "gulp-svgmin": "^1.2.4",
-        "require-dir": "^1.0.0"
+        "gulp-svgmin": "1.2.4",
+        "require-dir": "1.0.0"
     }
 }
