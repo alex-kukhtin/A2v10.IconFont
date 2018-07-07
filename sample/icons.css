@@ -84,6 +84,14 @@
 	content: "\e9ca";
 }
 
+.ico-triangle-right-down:before {
+	content: "\e9cb";
+}
+
+.ico-triangle-right-outline:before {
+	content: "\e9cd";
+}
+
 .ico-switch:before {
 	content: "\e90d";
 }

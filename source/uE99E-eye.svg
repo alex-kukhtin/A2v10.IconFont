@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.1"
+   width="1024"
+   height="1024"
+   viewBox="0 0 1024.00 1024.00"
+   enable-background="new 0 0 1024.00 1024.00"
+   xml:space="preserve"
+   id="svg4562"><metadata
+     id="metadata4568"><rdf:RDF><cc:Work
+         rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+     id="defs4566"><linearGradient
+       osb:paint="solid"
+       id="linearGradient5239"><stop
+         id="stop5237"
+         offset="0"
+         style="stop-color:#41e7d0;stop-opacity:1;" /></linearGradient></defs><path
+     d="m 703.62994,629.83344 a 192,192 0 0 1 -192,192 192,192 0 0 1 -192,-192 192,192 0 0 1 192,-192 192,192 0 0 1 192,192 z M 512,185.73828 c -134.4924,0 -263.74491,46.37959 -360.15039,130.48633 C 55.44413,400.33135 6.4479829e-6,516.05924 0,637.26953 h 76 c 5e-6,-98.13988 44.43349,-192.77814 125.8125,-263.77539 C 283.19151,302.49689 395.06717,261.73828 512,261.73828 c 116.93283,0 228.80849,40.75861 310.1875,111.75586 C 903.56651,444.49139 948,539.12965 948,637.26953 h 76 C 1024,516.05924 968.55587,400.33136 872.15039,316.22461 775.74492,232.11786 646.4924,185.73828 512,185.73828 Z"
+     style="fill:#d40000;fill-opacity:1;stroke:none;stroke-width:64;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="path6745" /><path
+     cx="512"
+     cy="512"
+     r="448"
+     id="path1995-3"
+     style="fill:#d2f628;fill-opacity:1;stroke:#000000;stroke-opacity:1" /><text
+     id="text6743"
+     y="938.23425"
+     x="-4.6126099"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1033.22521973px;line-height:1.25;font-family:bowtie;-inkscape-font-specification:bowtie;letter-spacing:0px;word-spacing:0px;fill:none;fill-opacity:1;stroke:none;stroke-width:1;"
+     xml:space="preserve"><tspan
+       style="stroke-width:1;fill:none;"
+       y="938.23425"
+       x="-4.6126099"
+       id="tspan6741"></tspan></text>
+</svg>
