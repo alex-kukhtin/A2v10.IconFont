@@ -495,8 +495,18 @@
 	color: #034989;
 }
 
+.ico-save-outline:before {
+	content: "\e981";
+	color: #034989;
+}
+
 .ico-save-close:before {
 	content: "\e985";
+	color: #034989;
+}
+
+.ico-save-close-outline:before {
+	content: "\e983";
 	color: #034989;
 }
 
@@ -747,4 +757,12 @@
 
 .ico-unlock-outline:before {
 	content: "\e98d";
+}
+
+.ico-pane-left:before {
+	content: "\eab1";
+}
+
+.ico-pane-right:before {
+	content: "\eab2";
 }
