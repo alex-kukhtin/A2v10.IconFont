@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.1"
+   width="1024"
+   height="1024"
+   viewBox="0 0 1024.00 1024.00"
+   enable-background="new 0 0 1024.00 1024.00"
+   xml:space="preserve"
+   id="svg4562"><metadata
+     id="metadata4568"><rdf:RDF><cc:Work
+         rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+     id="defs4566"><linearGradient
+       osb:paint="solid"
+       id="linearGradient5239"><stop
+         id="stop5237"
+         offset="0"
+         style="stop-color:#41e7d0;stop-opacity:1;" /></linearGradient></defs><path
+     cx="512"
+     cy="512"
+     r="448"
+     id="path1995-3"
+     style="fill:#d2f628;fill-opacity:1;stroke:#000000;stroke-opacity:1" /><path
+     id="path10704"
+     d="M 480 0 L 480 501.74805 L 544 501.74805 L 544 0 L 480 0 z M 374.52148 152.10938 L 344.85156 164.09766 C 146.98904 244.03931 33.282999 453.46059 74.001953 662.94141 C 114.72091 872.42222 298.59839 1024 512 1024 C 725.40161 1024 909.27911 872.42223 949.99805 662.94141 C 990.71699 453.46059 877.01096 244.0393 679.14844 164.09766 L 649.47852 152.10938 L 625.50391 211.44922 L 655.17383 223.4375 C 824.99988 292.05167 922.12303 470.9324 887.17383 650.73047 C 852.22463 830.52854 695.16329 959.99999 512 960 C 328.83671 960.00001 171.77538 830.52853 136.82617 650.73047 C 101.87696 470.9324 199.00013 292.05168 368.82617 223.4375 L 398.49609 211.44922 L 374.52148 152.10938 z "
+     style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:0.98999999;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#f60000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:64;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" /></svg>

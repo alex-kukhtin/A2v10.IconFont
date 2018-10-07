@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   id="svg4562"
+   xml:space="preserve"
+   enable-background="new 0 0 1024.00 1024.00"
+   viewBox="0 0 1024.00 1024.00"
+   height="1024"
+   width="1024"
+   version="1.1"><metadata
+     id="metadata4568"><rdf:RDF><cc:Work
+         rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+     id="defs4566" /><g
+     style="stroke-width:1.05485857"
+     transform="matrix(0.94539768,0,0,0.9505983,-58.465019,117.54705)"
+     id="g8114" /><g
+     style="stroke-width:0.83874679"
+     transform="matrix(1.192255,0,0,1.192255,-140.80285,-56.549276)"
+     id="g8118" /><path
+     id="path8697"
+     d="M 512 0 A 512 512 0 0 0 0 512 A 512 512 0 0 0 512 1024 A 512 512 0 0 0 1024 512 A 512 512 0 0 0 512 0 z M 448 153.38086 L 576 153.38086 L 576 448 L 798.57227 448 L 798.57227 576 L 448.20117 576 L 448.20117 547.73828 L 448 547.73828 L 448 153.38086 z "
+     style="opacity:0.98999999;fill:#ed8140;fill-opacity:1;stroke:none;stroke-width:64;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" /></svg>
