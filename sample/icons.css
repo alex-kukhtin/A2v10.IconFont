@@ -173,6 +173,10 @@
 	content: "\e929";
 }
 
+.ico-check-bold:before {
+	content: "\e977";
+}
+
 .ico-check:before {
 	content: "\e978";
 }
