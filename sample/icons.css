@@ -137,6 +137,9 @@
 }
 
 
+.ico-call:before {
+	content: "\ea19";
+}
 
 .ico-chart-area:before {
 	content: "\e922";
@@ -766,3 +769,4 @@
 .ico-pane-right:before {
 	content: "\eab2";
 }
+
