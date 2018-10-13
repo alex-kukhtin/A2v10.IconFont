@@ -574,6 +574,10 @@
 	content: "\e994";
 }
 
+.ico-bank:before {
+	content: "\e995";
+}
+
 .ico-grid:before {
 	content: "\e99c";
 }
