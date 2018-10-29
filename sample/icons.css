@@ -813,3 +813,20 @@
 .ico-bank-uah:before {
 	content: "\eabc";
 }
+
+.ico-currency-uah:before {
+	content: "\e91a";
+}
+
+.ico-currency-usd:before {
+	content: "\e91b";
+}
+
+.ico-currency-euro:before {
+	content: "\e91c";
+}
+
+/* d,e reserved */
+.ico-currency-other:before {
+	content: "\e91f";
+}
