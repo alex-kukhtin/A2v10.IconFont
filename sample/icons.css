@@ -407,6 +407,14 @@
 	color: #dcb67a;
 }
 
+.ico-address-book:before {
+	content: "\e960";
+}
+
+.ico-address-card:before {
+	content: "\e961";
+}
+
 .ico-minus:before {
 	content: "\e965";
 }
