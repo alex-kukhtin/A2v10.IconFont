@@ -744,6 +744,15 @@
 	content: "\e99e";
 }
 
+.ico-eye-disabled:before {
+	content: "\e99f";
+}
+
+.ico-eye-disabled-red:before {
+	content: "\e99f";
+	color: #a94442;
+}
+
 .ico-delete:before {
 	content: "\e94f";
 	color: #a94442;
