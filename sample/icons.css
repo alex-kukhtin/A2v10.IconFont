@@ -385,6 +385,10 @@
 	content: "\e9e6";
 }
 
+.ico-report:before {
+	content: "\e9e9";
+}
+
 .ico-file-error:before {
 	content: "\e9de";
 }
