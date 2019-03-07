@@ -112,6 +112,10 @@
 	content: "\e935";
 }
 
+.ico-flag2:before {
+	content: "\e938";
+}
+
 .ico-flag-blue:before {
 	content: "\e935";
 	color: #1ba1e2 !important;
