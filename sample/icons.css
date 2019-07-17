@@ -88,6 +88,10 @@
 	content: "\ea0a";
 }
 
+.ico-circle:before {
+	content: "\ea0b";
+}
+
 .ico-triangle-left:before {
 	content: "\e9c8";
 }
