@@ -92,6 +92,10 @@
 	content: "\ea0b";
 }
 
+.ico-circle-small:before {
+	content: "\ea0c";
+}
+
 .ico-triangle-left:before {
 	content: "\e9c8";
 }
@@ -203,6 +207,13 @@
 
 .ico-check:before {
 	content: "\e978";
+}
+
+.ico-checkbox:before {
+	content: "\e979";
+}
+.ico-checkbox-checked:before {
+	content: "\e97a";
 }
 
 .ico-chevron-down:before {
