@@ -384,6 +384,10 @@
 	content: "\e9dd";
 }
 
+.ico-file-failure:before {
+	content: "\e9e0";
+}
+
 .ico-file-content:before {
 	content: "\e9e1";
 }
