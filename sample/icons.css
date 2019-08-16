@@ -60,6 +60,10 @@
 	content: "\e903";
 }
 
+.ico-arrow-left-right:before {
+	content: "\e906";
+}
+
 .ico-arrow-export:before {
 	content: "\e908";
 }
@@ -148,8 +152,12 @@
 	content: "\e936";
 }
 
-.ico-send:before {
+.ico-send-outline:before {
 	content: "\e950";
+}
+
+.ico-send:before {
+	content: "\e951";
 }
 
 .ico-attach:before {
@@ -827,6 +835,10 @@
 
 .ico-external:before {
 	content: "\e9d0";
+}
+
+.ico-bell:before {
+	content: "\e9d1";
 }
 
 .ico-log:before {
