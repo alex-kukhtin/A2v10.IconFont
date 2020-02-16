@@ -224,6 +224,14 @@
 	content: "\e97a";
 }
 
+.ico-play-outline:before {
+	content: "\e97b";
+}
+
+.ico-play:before {
+	content: "\e97c";
+}
+
 .ico-chevron-down:before {
 	content: "\e9a4";
 }
