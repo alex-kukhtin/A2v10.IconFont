@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.1"
+   width="1024"
+   height="1024"
+   viewBox="0 0 1024.00 1024.00"
+   enable-background="new 0 0 1024.00 1024.00"
+   xml:space="preserve"
+   id="svg4"><metadata
+     id="metadata10"><rdf:RDF><cc:Work
+         rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+     id="defs8" /><path
+     id="path12945"
+     d="M 383.16838,108.81119 -1.4e-5,915.1888 H 505.58095 L 438.94106,772.55465 H 228.53582 L 381.46586,451.30495 599.80997,915.1888 H 1024 V 772.55465 H 699.78482 Z m 472.68318,0 c -32.24754,0 -60.65657,6.26442 -85.22617,18.79445 -24.5696,12.28907 -44.14754,30.24076 -58.73577,53.85504 -14.33234,23.6143 -22.65097,51.80761 -24.9544,84.57847 v 0.36084 h 107.87669 v -0.36084 c 2.30331,-19.75889 8.82937,-34.93921 19.57851,-45.54154 10.74926,-10.84331 24.82571,-16.26615 42.22914,-16.26615 17.91532,0 31.73566,3.85503 41.46114,11.5658 9.72549,7.7108 14.58915,18.67409 14.58915,32.89087 v 0.724 c 0,9.63848 -2.43303,20.11992 -7.29578,31.44513 -4.60674,11.08427 -11.2608,21.92767 -19.96262,32.53002 L 693.847,550.49336 v 3.55533 l 39.73542,85.72116 H 1024 V 544.3496 H 833.20105 L 970.63761,380.97787 c 15.8679,-19.03599 28.1539,-40.24095 36.85569,-63.61428 8.9577,-23.61427 13.4348,-47.34851 13.4348,-71.20376 v -0.36316 c 0,-28.91548 -6.526,-53.61343 -19.5786,-74.09521 -12.79669,-20.48178 -31.60639,-36.02409 -56.43189,-46.62642 -24.56959,-10.8433 -54.25908,-16.26385 -89.06605,-16.26385 z"
+     style="display:inline;fill:#14141a;fill-opacity:1;stroke:none;stroke-width:20.00000191;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" /></svg>
