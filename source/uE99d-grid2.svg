@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.1"
+   width="1024"
+   height="1024"
+   viewBox="0 0 1024.00 1024.00"
+   enable-background="new 0 0 1024.00 1024.00"
+   xml:space="preserve"
+   id="svg4562"><metadata
+   id="metadata4568"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+   id="defs4566" />
+	
+	
+<g
+   id="g5743" /><path
+   id="rect829"
+   d="M 86 86 L 86 246 L 246 246 L 246 86 L 86 86 z M 432 86 L 432 246 L 592 246 L 592 86 L 432 86 z M 778 86 L 778 246 L 938 246 L 938 86 L 778 86 z M 86 432 L 86 592 L 246 592 L 246 432 L 86 432 z M 432 432 L 432 592 L 592 592 L 592 432 L 432 432 z M 778 432 L 778 592 L 938 592 L 938 432 L 778 432 z M 86 778 L 86 938 L 246 938 L 246 778 L 86 778 z M 432 778 L 432 938 L 592 938 L 592 778 L 432 778 z M 778 778 L 778 938 L 938 938 L 938 778 L 778 778 z "
+   style="opacity:1;fill:#cfffbd;fill-opacity:0.7;fill-rule:nonzero;stroke:none;stroke-width:2.26771665;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke" /></svg>
