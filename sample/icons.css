@@ -810,8 +810,16 @@
 	content: "\e99a";
 }
 
+.ico-user-image:before {
+	content: "\e9a0";
+}
+
 .ico-user-minus:before {
 	content: "\e99b";
+}
+
+.ico-camera:before {
+	content: "\e9a1";
 }
 
 .ico-eye:before {

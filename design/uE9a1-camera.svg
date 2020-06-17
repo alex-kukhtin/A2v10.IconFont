@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg4562"
+   xml:space="preserve"
+   enable-background="new 0 0 1024.00 1024.00"
+   viewBox="0 0 1024.00 1024.00"
+   height="1024"
+   width="1024"
+   version="1.1"
+   sodipodi:docname="uE9a1-camera.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="1920"
+   inkscape:window-height="1017"
+   id="namedview5099"
+   showgrid="false"
+   inkscape:zoom="0.5"
+   inkscape:cx="769.36705"
+   inkscape:cy="338.68363"
+   inkscape:window-x="-8"
+   inkscape:window-y="-8"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="svg4562" /><metadata
+   id="metadata4568"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+   id="defs4566" />
+	
+	
+<g
+   id="g2710"
+   transform="translate(-232,138.99991)" /><circle
+   style="opacity:1;fill:none;fill-opacity:0.95817488;fill-rule:nonzero;stroke:#000000;stroke-width:64;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+   id="path6344"
+   cx="512"
+   cy="545.9411"
+   r="230.51682" /><circle
+   style="opacity:1;fill:#e34632;fill-opacity:0.94296582;fill-rule:nonzero;stroke:none;stroke-width:64;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+   id="path6350"
+   cx="159.27924"
+   cy="317.4202"
+   r="32" /><path
+   style="opacity:1;fill:none;fill-opacity:0.94296582;fill-rule:nonzero;stroke:#00d900;stroke-width:64;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+   d="M 31.999997,192 H 292 l 60,-64 h 320 l 60,64 H 992 V 892.47817 H 31.999997 Z"
+   id="rect6352"
+   inkscape:connector-curvature="0"
+   sodipodi:nodetypes="ccccccccc" /></svg>
