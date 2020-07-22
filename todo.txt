@@ -1,0 +1,27 @@
+ImportFromCatalog
+Fixed Asset
+Contract
+Navigate
+Globe (E774)
+Pyramid (F157)
+BarCode
+Building/Company (E731, EC06,EC07, EC08)
+Bulb (E82F)
+Users(3) (E902,EBDA)
+MenuCircle (EDE3)
+Cube (F158)
+Progress (F16A)
+Book (E82D)
+Books
+Pause
+Debugger icons (play, stop, pause)
+Undo/Redo
+BookPhone (E1D4)
+EyeAlt (E783)
+Sign (E932)
+Bug (EBE8)
+Tools (EC7A)
+Signature (EDC6)
+NFC
+
+
