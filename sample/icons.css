@@ -471,6 +471,9 @@
 	content: "\e95b";
 	color: #dcb67a;
 }
+.ico-folder-outline:before {
+	content: "\e95a";
+}
 
 .ico-folder-query:before {
 	content: "\ea24";
@@ -972,4 +975,8 @@
 
 .ico-logo-github:before {
 	content: "\ead1";
+}
+
+.ico-logo-nuget:before {
+	content: "\ead2";
 }
