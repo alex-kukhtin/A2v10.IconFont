@@ -9,7 +9,7 @@ const options = {
     metadata: 'icon font for a2v10',
     prependUnicode: true,
     round: 1000,
-    formats: ['ttf', 'eot', 'woff', 'svg', 'woff2']
+    formats: ['ttf', 'eot', 'woff', 'svg']
 };
 
 function getGlyph(g) {
