@@ -180,6 +180,10 @@
 	content: "\ea19";
 }
 
+.ico-flame:before {
+	content: "\ea1a";
+}
+
 .ico-chart-area:before {
 	content: "\e922";
 }
