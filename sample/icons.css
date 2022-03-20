@@ -184,6 +184,14 @@
 	content: "\ea1a";
 }
 
+.ico-truck:before {
+	content: "\ea1b";
+}
+
+.ico-cart:before {
+	content: "\ea1c";
+}
+
 .ico-chart-area:before {
 	content: "\e922";
 }
