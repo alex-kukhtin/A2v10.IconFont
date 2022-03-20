@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.1"
+   width="1024"
+   height="1024"
+   viewBox="0 0 1024.00 1024.00"
+   enable-background="new 0 0 1024.00 1024.00"
+   xml:space="preserve"
+   id="svg4562"><metadata
+     id="metadata4568"><rdf:RDF><cc:Work
+         rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+     id="defs4566"><linearGradient
+       osb:paint="solid"
+       id="linearGradient5239"><stop
+         id="stop5237"
+         offset="0"
+         style="stop-color:#41e7d0;stop-opacity:1;" /></linearGradient></defs><path
+     cx="512"
+     cy="512"
+     r="448"
+     id="path1995-3"
+     style="fill:#d2f628;fill-opacity:1;stroke:#000000;stroke-opacity:1" /><path
+     id="rect7077"
+     d="m 3.1621313,58.76367 v 64 H 187.90237 L 335.72073,759.95899 C 303.10917,779.18988 281.04299,814.70322 281.04299,855 c 0,60.50328 49.73501,110.23633 110.23828,110.23633 60.50328,0 110.23633,-49.73305 110.23633,-110.23633 0,-18.29251 -4.55306,-35.59677 -12.56836,-50.84375 L 747.37698,804.75 c -7.82169,15.10113 -12.25196,32.19585 -12.25196,50.25 0,60.50328 49.73501,110.23633 110.23828,110.23633 60.50328,0 110.23633,-49.73305 110.23633,-110.23633 0,-17.87454 -4.34284,-34.80874 -12.01953,-49.79883 l 14.90625,0.0352 0.14844,-64 -561.85742,-1.29102 -15.10547,-65.11132 546.7539,-3.02149 c 30.80402,-155.20508 61.60813,-310.41015 92.4121,-465.61523 -249.53704,-1.05037 -499.07422,-2.10002 -748.61131,-3.15039 L 238.75588,58.76367 Z M 293.4219,267.13477 c 55.85612,0.23514 111.71224,0.46993 167.56836,0.70508 l 11.82031,137.83789 H 325.19338 C 314.60297,359.49673 304.0123,313.31578 293.4219,267.13477 Z m 231.82617,0.97656 c 60.49805,0.25468 120.99609,0.50899 181.49414,0.76367 L 697.5176,405.67774 H 537.04495 Z m 245.62305,1.0332 c 57.36002,0.24148 114.72005,0.48314 172.08007,0.72461 l -26.95312,135.8086 H 761.66409 Z M 339.86916,469.67774 h 138.42969 l 12.05274,140.55468 c -39.36654,0.21743 -78.73308,0.43492 -118.09961,0.65235 -10.79406,-47.06906 -21.58876,-94.13797 -32.38282,-141.20703 z m 202.66407,0 h 150.66796 l -9.40624,139.48632 c -43.07944,0.23794 -86.15886,0.47497 -129.23829,0.71289 z m 214.81445,0 h 145.94727 l -27.47266,138.42578 c -42.61914,0.23538 -85.23828,0.47164 -127.85742,0.70703 z M 391.28127,808.76172 c 25.91511,0 46.23633,20.32317 46.23633,46.23828 0,25.91511 -20.32122,46.23633 -46.23633,46.23633 -25.91511,0 -46.23828,-20.32122 -46.23828,-46.23633 0,-25.91511 20.32317,-46.23828 46.23828,-46.23828 z m 454.08203,0 c 25.91512,0 46.23633,20.32317 46.23633,46.23828 0,25.91511 -20.32121,46.23633 -46.23633,46.23633 -25.91511,0 -46.23828,-20.32122 -46.23828,-46.23633 0,-25.91511 20.32317,-46.23828 46.23828,-46.23828 z"
+     style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#f60000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:64;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" /></svg>
