@@ -192,6 +192,10 @@
 	content: "\ea1c";
 }
 
+.ico-shopping:before {
+	content: "\ea1d";
+}
+
 .ico-chart-area:before {
 	content: "\e922";
 }
