@@ -829,6 +829,10 @@
 	content: "\e913";
 }
 
+.ico-user-role:before {
+	content: "\e9a6";
+}
+
 .ico-user:before {
 	content: "\e998";
 }
