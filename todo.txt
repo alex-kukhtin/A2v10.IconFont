@@ -23,5 +23,6 @@ Bug (EBE8)
 Tools (EC7A)
 Signature (EDC6)
 NFC
-
+QRCode
+Dark/Light
 

@@ -100,6 +100,14 @@
 	content: "\ea0c";
 }
 
+.ico-barcode:before {
+	content: "\ea0d";
+}
+
+.ico-qrcode:before {
+	content: "\ea0e";
+}
+
 .ico-triangle-left:before {
 	content: "\e9c8";
 }
