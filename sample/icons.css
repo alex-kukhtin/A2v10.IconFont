@@ -487,6 +487,10 @@
 	content: "\e9de";
 }
 
+.ico-file-download-pdf:before {
+	content: "\e9df";
+}
+
 .ico-file-preview:before {
 	content: "\e9e3";
 }
