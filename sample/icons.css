@@ -240,6 +240,14 @@
 	content: "\e929";
 }
 
+.ico-mode-light:before {
+	content: "\e975";
+}
+
+.ico-mode-dark:before {
+	content: "\e976";
+}
+
 .ico-check-bold:before {
 	content: "\e977";
 }
@@ -613,6 +621,10 @@
 .ico-refresh:before {
 	content: "\ea00";
 	color: #034989;
+}
+
+.ico-upgrade:before {
+	content: "\ea01";
 }
 
 .ico-error:before, .ico-alert:before {

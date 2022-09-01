@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="svg4562"
+   xml:space="preserve"
+   enable-background="new 0 0 1024.00 1024.00"
+   viewBox="0 0 1024.00 1024.00"
+   height="1024"
+   width="1024"
+   version="1.1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"><metadata
+   id="metadata4568"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
+   id="defs4566"><linearGradient
+     id="linearGradient5239"><stop
+       style="stop-color:#41e7d0;stop-opacity:1;"
+       offset="0"
+       id="stop5237" /></linearGradient></defs>
+	
+	
+<path
+   id="path10826"
+   style="color:#000000;fill:#c759c5;stroke-linecap:square;stroke-miterlimit:1000;-inkscape-stroke:none"
+   d="M 512 0 C 376.22173 0 245.97067 53.951195 149.96094 149.96094 C 53.951195 245.97067 0 376.22173 0 512 C 0 647.77827 53.951195 778.02933 149.96094 874.03906 C 245.97067 970.04881 376.22173 1024 512 1024 C 647.77827 1024 778.02933 970.04881 874.03906 874.03906 C 970.04881 778.02933 1024 647.77827 1024 512 C 1024 376.22173 970.04881 245.97067 874.03906 149.96094 C 778.02933 53.951195 647.77827 0 512 0 z M 512 64 C 630.82904 64 744.75839 111.19197 828.7832 195.2168 C 912.80803 279.24161 960 393.17096 960 512 C 960 630.82904 912.80803 744.75839 828.7832 828.7832 C 744.75839 912.80803 630.82904 960 512 960 C 393.17096 960 279.24161 912.80803 195.2168 828.7832 C 111.19197 744.75839 64 630.82904 64 512 C 64 393.17096 111.19197 279.24161 195.2168 195.2168 C 279.24161 111.19197 393.17096 64 512 64 z M 512 227.43164 L 285.72656 453.70508 L 330.98047 498.96094 L 480 349.93945 L 480 796.56836 L 544 796.56836 L 544 349.93945 L 693.01953 498.96094 L 738.27344 453.70508 L 512 227.43164 z " /><g
+   id="g11044"
+   transform="translate(70.741761,-128.92853)"><g
+     id="g11038"
+     transform="translate(13.254843,207.09839)" /></g></svg>
