@@ -107,6 +107,9 @@
 .ico-qrcode:before {
 	content: "\ea0e";
 }
+.ico-factory:before {
+	content: "\ea0f";
+}
 
 .ico-triangle-left:before {
 	content: "\e9c8";
