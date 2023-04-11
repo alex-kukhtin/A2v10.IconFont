@@ -366,6 +366,10 @@
 	content: "\e945";
 }
 
+.ico-board:before {
+	content: "\e946";
+}
+
 .ico-dot:before {
 	content: "\ea49";
 }
