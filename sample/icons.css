@@ -64,6 +64,10 @@
 	content: "\e906";
 }
 
+.ico-arrow-left-right-full:before {
+	content: "\e907";
+}
+
 .ico-arrow-export:before {
 	content: "\e908";
 }
