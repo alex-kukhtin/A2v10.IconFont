@@ -29,8 +29,8 @@
      id="namedview4526"
      showgrid="false"
      inkscape:zoom="0.65930143"
-     inkscape:cx="237.37246"
-     inkscape:cy="502.04654"
+     inkscape:cx="229.78867"
+     inkscape:cy="503.56329"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
@@ -81,12 +81,12 @@
      style="fill:none;stroke:#b16d00;stroke-width:64;stroke-miterlimit:1000"
      id="rect704"
      width="960"
-     height="576"
+     height="704"
      x="32"
-     y="224" /><rect
+     y="160" /><rect
      style="fill:#3449e3;fill-opacity:1;stroke:none;stroke-width:64;stroke-miterlimit:1000"
      id="rect706"
      width="64"
-     height="640"
+     height="768"
      x="704"
-     y="192" /></svg>
+     y="128" /></svg>
