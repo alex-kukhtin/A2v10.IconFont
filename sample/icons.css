@@ -84,6 +84,14 @@
 	content: "\e90a";
 }
 
+.ico-pane-close:before {
+	content: "\e90b";
+}
+
+.ico-pane-open:before {
+	content: "\e90c";
+}
+
 .ico-import:before {
 	content: "\e904";
 }
