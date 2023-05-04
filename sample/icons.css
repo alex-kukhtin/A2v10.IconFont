@@ -76,6 +76,9 @@
 	content: "\e913";
 }
 
+.ico-logout:before {
+	content: "\e914";
+}
 .ico-arrow-open:before {
 	content: "\e909";
 }
