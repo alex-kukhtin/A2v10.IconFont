@@ -875,8 +875,24 @@
 	content: "\e910";
 }
 
+.ico-apply:before {
+	content: "\e911";
+}
+
+.ico-unapply:before {
+	content: "\e912";
+}
+
 .ico-brand-excel:before {
 	content: "\e913";
+}
+
+.ico-folder-ban:before {
+	content: "\e915";
+}
+
+.ico-assets:before {
+	content: "\e916";
 }
 
 .ico-user-role:before {
