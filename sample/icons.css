@@ -899,6 +899,10 @@
 	content: "\e917";
 }
 
+.ico-lead:before {
+	content: "\e918";
+}
+
 .ico-user-role:before {
 	content: "\e9a6";
 }
