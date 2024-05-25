@@ -194,8 +194,16 @@
 	content: "\e937";
 }
 
+.ico-calendar-today:before {
+	content: "\e93c";
+}
+
 .ico-calendar:before {
 	content: "\e93d";
+}
+
+.ico-calendar-week:before {
+	content: "\e93e";
 }
 
 .ico-a2v10:before {
@@ -414,6 +422,14 @@
 
 .ico-rename:before {
 	content: "\e953";
+}
+
+.ico-edit-undo:before {
+	content: "\e947";
+}
+
+.ico-edit-redo:before {
+	content: "\e948";
 }
 
 .ico-pencil:before {
