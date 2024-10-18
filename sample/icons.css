@@ -561,6 +561,10 @@
 	content: "\e95a";
 }
 
+.ico-folder-move-to:before {
+	content: "\e957";
+}
+
 .ico-folders-outline:before {
 	content: "\e959";
 }
