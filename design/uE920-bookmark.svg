@@ -31,8 +31,8 @@
      inkscape:measure-start="26.0339,481.627"
      inkscape:measure-end="99.556,481.364"
      inkscape:zoom="0.65186406"
-     inkscape:cx="263.09166"
-     inkscape:cy="497.03615"
+     inkscape:cx="255.42135"
+     inkscape:cy="498.57021"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
@@ -49,5 +49,5 @@
      id="g5312-3" /><path
      id="rect5385"
      style="opacity:0.99;fill:none;stroke:#d82828;stroke-width:64"
-     d="M 222,78.990036 H 802 V 908.99004 l -290,-240 -290,240 z"
+     d="M 222,32.691529 H 802 V 953.19651 L 512,701.68157 222,953.19651 Z"
      sodipodi:nodetypes="cccccc" /></svg>
