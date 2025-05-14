@@ -1114,3 +1114,19 @@
 .ico-smile-sad:before {
 	content: "\eacb";
 }
+
+.ico-bookmark::before {
+	content: "\e920";
+}
+
+.ico-code::before {
+	content: "\e921";
+}
+
+.ico-code-check::before {
+	content: "\e92b";
+}
+
+.ico-variable::before {
+	content: "\e92c";
+}

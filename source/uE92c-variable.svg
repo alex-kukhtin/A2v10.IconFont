@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="svg4562"
+   xml:space="preserve"
+   enable-background="new 0 0 1024.00 1024.00"
+   viewBox="0 0 1024.00 1024.00"
+   height="1024"
+   width="1024"
+   version="1.1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"><metadata
+     id="metadata4568"><rdf:RDF><cc:Work
+         rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
+     id="defs4566" /><g
+     id="g5312" /><g
+     transform="matrix(1,0,0,-1,1.6763485,1022.5531)"
+     id="g5312-3" /><g
+     aria-label="( )"
+     transform="scale(0.80713156,1.2389554)"
+     id="text766"
+     style="font-size:743.372px;font-family:Arial;-inkscape-font-specification:Arial;fill:#fa29e9;stroke-miterlimit:1000"><path
+       d="m 325.81673,743.55824 q -117.96675,0 -183.30218,-86.75093 -64.972458,-87.11391 -64.972458,-245.73382 0,-156.44205 64.972458,-242.10406 65.33543,-86.024987 183.30218,-86.024987 h 17.42278 v 65.335427 h -10.16329 q -86.02498,0 -132.84871,68.96518 -46.46075,68.96518 -46.46075,193.82844 0,127.04112 46.46075,197.09522 46.82373,70.0541 132.84871,70.0541 h 10.16329 v 65.33543 z"
+       style="-inkscape-font-specification:'Cascadia Code'"
+       id="path2337" /><path
+       d="m 925.45082,743.55824 v -65.33543 h 10.16329 q 86.02499,0 132.48569,-70.0541 46.8238,-70.0541 46.8238,-197.09522 0,-124.86326 -46.8238,-193.82844 -46.4607,-68.96518 -132.48569,-68.96518 H 925.45082 V 82.944443 h 17.42278 q 118.3297,0 183.3022,86.024987 64.9724,85.66201 64.9724,242.10406 0,158.61991 -64.9724,245.73382 -64.9725,86.75093 -183.3022,86.75093 z"
+       style="-inkscape-font-specification:'Cascadia Code'"
+       id="path2339" /></g><g
+     aria-label="X"
+     transform="matrix(1.1668214,0,0,0.8570292,-5.15753e-6,-4.081606e-6)"
+     id="text2270"
+     style="font-size:628.488px;font-family:'Cascadia Code';-inkscape-font-specification:'Cascadia Code';fill:#fa29e9;stroke-width:0.999999;stroke-miterlimit:1000"><path
+       d="M 532.39702,815.29657 420.6931,620.12159 274.61874,379.52854 h 70.58215 l 116.00022,206.83637 141.77805,228.93166 z m -257.77828,0 141.77805,-228.93166 116.00023,-206.83637 h 70.58214 L 456.90481,620.12159 345.20089,815.29657 Z"
+       id="path2346" /></g></svg>
