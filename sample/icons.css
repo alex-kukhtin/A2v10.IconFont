@@ -1130,3 +1130,27 @@
 .ico-variable::before {
 	content: "\e92c";
 }
+
+.ico-edit-align-left:before {
+	content: "\e96a";
+}
+
+.ico-edit-align-center:before {
+	content: "\e96b";
+}
+
+.ico-edit-align-right:before {
+	content: "\e96c";
+}
+
+.ico-edit-bold:before {
+	content: "\e96d";
+}
+
+.ico-edit-italic:before {
+	content: "\e96f";
+}
+
+.ico-triangle-down:before {
+	content: "\e9a30";
+}
