@@ -1154,3 +1154,7 @@
 .ico-triangle-down:before {
 	content: "\e9a30";
 }
+
+.ico-robot:before {
+	content: "\e971";
+}
